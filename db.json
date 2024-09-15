@@ -1,0 +1,123 @@
+{
+  "category": [
+    {
+      "CategoryID": "1",
+      "name": "2024-Batch",
+      "sdetails": [
+        {
+          "StudentID": "2",
+          "name": "Ajay",
+          "age": "18",
+          "mobile": "7736191499",
+          "cource": "mearn",
+          "id": 1
+        },
+        {
+          "StudentID": "5",
+          "name": "sujith",
+          "age": "19",
+          "mobile": "7647784788",
+          "cource": ".net",
+          "id": 2
+        },
+        {
+          "StudentID": "1",
+          "name": "Abhi",
+          "age": "19",
+          "mobile": "7836303748",
+          "cource": "Python",
+          "id": 3
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "students": [
+    {
+      "StudentID": "2",
+      "name": "Ajay",
+      "age": "18",
+      "mobile": "7736191499",
+      "cource": "mearn",
+      "id": 1
+    },
+    {
+      "StudentID": "5",
+      "name": "sujith",
+      "age": "19",
+      "mobile": "7647784788",
+      "cource": ".net",
+      "id": 2
+    },
+    {
+      "StudentID": "1",
+      "name": "Abhi",
+      "age": "19",
+      "mobile": "7836303748",
+      "cource": "Python",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay@gmail.com",
+      "id": 6
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "ajay1@gmail.com",
+      "id": 7
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "abi@gmail.com",
+      "id": 8
+    },
+    {
+      "username": "ajay",
+      "password": "1234",
+      "email": "admin@gmail.com",
+      "id": 9
+    },
+    {
+      "username": "abi",
+      "password": "1234",
+      "email": "user@gmail.com",
+      "id": 10
+    }
+  ]
+}
